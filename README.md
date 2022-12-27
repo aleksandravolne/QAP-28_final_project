@@ -2,7 +2,7 @@
 
 Итоговый проект по автоматизации тестирования. Объект тестирования: https://b2c.passport.rt.ru/
 
-Тест-кейсы и описания багов расположены тут: https://docs.google.com/spreadsheets/d/1v-Am2D7eHdIfC_BvSs_2ktkqCgHRT3puk647a5vTu0Q/edit#gid=0
+Тест-кейсы и описания багов расположены тут: 
 
 Задание:
 
