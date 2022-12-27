@@ -1,8 +1,9 @@
 # QAP-28_final_project
 
-Итоговый проект по автоматизации тестирования. Объект тестирования: https://b2c.passport.rt.ru/
+Итоговый проект по автоматизации тестирования.  
+Объект тестирования: https://b2c.passport.rt.ru/
 
-Тест-кейсы и описания багов расположены тут: 
+Тест-кейсы и описания багов: https://docs.google.com/spreadsheets/d/1OK96zHBR_5BTkfzsK5KIsYjAeEEgq0nDMBq_vlDwT_U/edit?usp=sharing
 
 Задание:
 
